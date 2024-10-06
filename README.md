@@ -44,7 +44,7 @@ Open the app on an emulator or physical device.
  - React Native.
  - Expo.
 
-Contributions are welcome! If you want to improve the project, follow these steps:
+## Contributions are welcome! If you want to improve the project, follow these steps:
 
  1. Fork the repository.
  2. Create a new branch for your feature or fix: git checkout -b my-feature.
@@ -52,7 +52,6 @@ Contributions are welcome! If you want to improve the project, follow these step
  4. Push your branch: git push origin my-feature.
  5. Open a pull request.
 
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## License
+This project is licensed under the MIT License.
 
